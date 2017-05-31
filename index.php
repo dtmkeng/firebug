@@ -10,11 +10,10 @@
 	    <script src="Semantic-UI-CSS-master/semantic.js"></script>
 </head>
 <body>
-<<<<<<< HEAD
+
   <p>ttttt<p>
-  
-=======
->>>>>>> ceed20e24c3d5f8e2613cfcb5da89dc3f5bd69e6
+  <h1>pai pai</h1>
+
 <?php
 
 	if(isset($_SESSION["login"])){

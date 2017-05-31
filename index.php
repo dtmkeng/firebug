@@ -12,6 +12,7 @@
 <body>
   <p>ttttt<p>
   <h2>head</h2>
+  <h2>99999</h2>
 <?php
 	if(isset($_SESSION["login"])){
 		include_once("system/main.page.php");

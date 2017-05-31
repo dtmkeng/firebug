@@ -10,8 +10,7 @@
 	    <script src="Semantic-UI-CSS-master/semantic.js"></script>
 </head>
 <body>
-	<p>test</p>
-	
+
 <?php
 	if(isset($_SESSION["login"])){
 		include_once("system/main.page.php");

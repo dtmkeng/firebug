@@ -10,14 +10,6 @@
 	    <script src="Semantic-UI-CSS-master/semantic.js"></script>
 </head>
 <body>
-<<<<<<< HEAD
-
-  <p>ttttt<p>
-  <h1>pai pai</h1>
-=======
-  <p>ttttt<p>
-  
->>>>>>> loser
 
 <?php
 

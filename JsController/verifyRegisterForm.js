@@ -9,7 +9,7 @@ $(document).ready(function() {
 	$('#email_regist').focusout(function(){
 		console.log(isEmail($('#email_regist').val()));
 	});
-	$('#password-re-regist').focusout(function(){
+	/*$('#password-re-regist').focusout(function(){
 		if($('#password-regist').val()!=$('#password-re-regist').val()){
 			$('#alert_close').closest('.message').transition('shake');
 			$("#message_alert").text("Password Not Match");
@@ -29,7 +29,7 @@ $(document).ready(function() {
 	});
 	$('#alert_close').on('click', function() {
 		$(this).closest('.message').transition('fade');
-	});
+	});*/
 	////////////////////////////////submlit/////////////////////////////////
 	$("#regist_submit").click(function(){ 
 		var response = grecaptcha.getResponse();

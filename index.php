@@ -10,9 +10,13 @@
 	    <script src="Semantic-UI-CSS-master/semantic.js"></script>
 </head>
 <body>
+<<<<<<< HEAD
   <p>ttttt<p>
   
   <?php
+=======
+<?php
+>>>>>>> ceed20e24c3d5f8e2613cfcb5da89dc3f5bd69e6
 	if(isset($_SESSION["login"])){
 		include_once("system/main.page.php");
 	}else{

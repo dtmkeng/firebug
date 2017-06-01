@@ -1,4 +1,4 @@
-console.log("Hello js");
+console.log("Hello");
 //authFirebase
 (function(){
     var config = {
